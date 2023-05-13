@@ -22,7 +22,7 @@ Scanner sc = new Scanner(System.in);
     System.out.println("your salary"+salary);
     //System.out.println("your letter is= "+m);
     
-    
+    //Comment by Omar    
 }
 }
 
